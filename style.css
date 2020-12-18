@@ -1,0 +1,20 @@
+
+
+h1 {
+  color: blue;
+  border: 3px solid blue;
+  padding: 22px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.first {
+  font-size: 22px;
+  color: red;
+  margin-left: 20px;
+}
+.second {
+  font-size: 18px;
+  color: green;
+  margin-left: 30px;
+}
